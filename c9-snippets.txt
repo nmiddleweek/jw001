@@ -1,4 +1,4 @@
 // SASS transpiler
 
-sass --watch test.scss:output.css --style compressed --sourcemap
+sudo sass --watch test.scss:output.css --style compressed --sourcemap
 
